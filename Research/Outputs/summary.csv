@@ -1,0 +1,21 @@
+Strategy,Total_Profit_Loss,Profitable_Trades,Loss_Trades,Profit percentage
+"Market_Force_Indicator, Volume_Float_Ratio, Relative Volume",235.2104877,3892,3720,51.12979506
+"Market_Force_Indicator, Volume_Float_Ratio, Volume_Per_Minute_Institutional_Transactions",-218.7711984,3983,3814,51.08375016
+"Volume_Float_Ratio, Volume_Per_Minute, Volume_Per_Minute_Institutional_Transactions",-218.7711984,3983,3814,51.08375016
+"Market_Force_Indicator, Volume_Float_Ratio, Volume_Per_Minute",194.2022518,6652,6388,51.01226994
+"Market_Force_Indicator, Volume_Per_Minute, Volume_Per_Minute_Institutional_Transactions",-99.520455,3762,3668,50.63257066
+"Market_Force_Indicator, Volume_Per_Minute, Relative Volume",-498.0527307,2539,2590,49.50282706
+"Volume_Float_Ratio, Volume_Per_Minute, Relative Volume",-507.6023346,2523,2577,49.47058824
+"Volume_Per_Minute, Relative Volume, Volume_Per_Minute_Institutional_Transactions",-359.4815079,1593,1660,48.97018137
+"Volume_Float_Ratio, Relative Volume, Volume_Per_Minute_Institutional_Transactions",-364.9554244,1572,1647,48.83504194
+"Market_Force_Indicator, Relative Volume, Volume_Per_Minute_Institutional_Transactions",-365.7502152,1581,1658,48.81136153
+"Market_Force_Indicator, Relative Volume, Short Ratio",0,0,0,0
+"Market_Force_Indicator, Short Ratio, Volume_Per_Minute_Institutional_Transactions",0,0,0,0
+"Market_Force_Indicator, Volume_Float_Ratio, Short Ratio",0,0,0,0
+"Market_Force_Indicator, Volume_Per_Minute, Short Ratio",0,0,0,0
+"Relative Volume, Short Ratio, Volume_Per_Minute_Institutional_Transactions",0,0,0,0
+"Volume_Float_Ratio, Relative Volume, Short Ratio",0,0,0,0
+"Volume_Float_Ratio, Short Ratio, Volume_Per_Minute_Institutional_Transactions",0,0,0,0
+"Volume_Float_Ratio, Volume_Per_Minute, Short Ratio",0,0,0,0
+"Volume_Per_Minute, Relative Volume, Short Ratio",0,0,0,0
+"Volume_Per_Minute, Short Ratio, Volume_Per_Minute_Institutional_Transactions",0,0,0,0
