@@ -15,11 +15,8 @@ This project focuses on the analysis of stock data using machine learning techni
 - [Modeling](#modeling)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Running the Code](#running-the-code)
 - [Future Work](#future-work)
-- [Repository Structure](#repository-structure)
-- [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -68,6 +65,20 @@ The results section includes the performance metrics of the models, the effectiv
 
 This project demonstrates the potential of using machine learning for stock data analysis and trading strategy development. The findings highlight the importance of feature engineering and model selection in predicting stock price changes and generating effective trading signals.
 
+## Running the Code
+
+To run the code, follow these instructions:
+
+1. Add the CSV file that you want to check to the project directory and update the CSV file path in the `FeatureImportance.py` code.
+2. Add all the required CSV files to the project directory before running the remaining scripts.
+3. Run the scripts in the following order:
+    1. `FeatureImportance.py`
+    2. `Images2csv.py`
+    3. `analyze_feature_combinations.py`
+    4. `stock_trading_strategy_analysis.py`
+
+Codes won't work if one doesn't follow this order.
+
 ## Future Work
 
 Future work will focus on:
@@ -76,8 +87,4 @@ Future work will focus on:
 - Exploring additional machine learning models.
 - Implementing real-time trading strategies.
 - Conducting further backtesting and validation.
-
-## Repository Structure
-
-The repository is organized as follows:
 
